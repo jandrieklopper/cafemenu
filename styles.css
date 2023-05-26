@@ -6,6 +6,8 @@ body {
 
 h1 {
   font-size: 40px
+    margin-top: 0px;
+  margin-bottom: 15px;
 }
 
 h2 {
@@ -34,6 +36,10 @@ hr {
   font-style: italic;
 }
 
+.address{
+  margin-bottom: 5px;
+}
+
 .menu {
   width: 80%;
   background-color: burlywood;
@@ -58,4 +64,25 @@ hr {
   margin-top: 5px;
   margin-bottom: 5px;
   font-size: 18px;
+}
+
+/* FOOTER */
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
 }
